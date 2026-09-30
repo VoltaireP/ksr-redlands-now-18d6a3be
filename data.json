@@ -1,0 +1,220 @@
+{
+  "alarms": [],
+  "client": "redlands-now",
+  "currency": "USD",
+  "daily": [],
+  "display_name": "Redlands Now",
+  "generated_at": "2026-09-30T02:48:28.407511-07:00",
+  "headline": [
+    {
+      "format": "money",
+      "key": "spend",
+      "label": "Ad spend",
+      "prior": 222.74,
+      "trend": [
+        236.47,
+        240.46,
+        224.03,
+        250.48,
+        238.56,
+        246.27,
+        222.74,
+        240.72
+      ],
+      "value": 240.72
+    },
+    {
+      "format": "int",
+      "key": "reach",
+      "label": "Reach",
+      "prior": 11430,
+      "trend": [
+        15644,
+        15123,
+        14383,
+        12683,
+        11906,
+        12216,
+        11430,
+        12322
+      ],
+      "value": 12322
+    },
+    {
+      "format": "int",
+      "key": "link_clicks",
+      "label": "Link clicks",
+      "prior": 416,
+      "trend": [
+        633,
+        543,
+        374,
+        375,
+        307,
+        456,
+        416,
+        431
+      ],
+      "value": 431
+    },
+    {
+      "format": "int",
+      "key": "landing_page_views",
+      "label": "Landing page views",
+      "prior": 379,
+      "trend": [
+        572,
+        451,
+        48,
+        100,
+        88,
+        410,
+        379,
+        379
+      ],
+      "value": 379
+    }
+  ],
+  "insight": null,
+  "labels": {},
+  "metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_message": null,
+    "cpl": 0.83,
+    "crm_leads": 0,
+    "crm_leads_raw": 0,
+    "ctr": 0.026818,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 16071,
+    "landing_page_views": 379,
+    "link_clicks": 431,
+    "messages": 0,
+    "meta_spend": 240.72,
+    "pixel_leads": 290,
+    "reach": 12322,
+    "spend": 240.72,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
+  "segment_label": "segment",
+  "segments": [],
+  "top_ads": [
+    {
+      "ad_name": "DCT-IMG - Dec Refresh- LEARN",
+      "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 122,
+      "spend": 73.01
+    },
+    {
+      "ad_name": "7.21.2026-CONTROL- EP122117717241032511-LEARN",
+      "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 66,
+      "spend": 55.21
+    },
+    {
+      "ad_name": "DCT-IMG - Jan Refresh- LEARN",
+      "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 54,
+      "spend": 46.47
+    },
+    {
+      "ad_name": "DCT-IMG -Aug Refresh- LEARN",
+      "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 44,
+      "spend": 35.95
+    },
+    {
+      "ad_name": "4.12.26-CONTROL- EP-122117716869032511- LEARN",
+      "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 4,
+      "spend": 1.95
+    }
+  ],
+  "unavailable": [
+    "crm_leads",
+    "crm_leads_raw",
+    "appointments_booked",
+    "appointments_showed",
+    "tiktok_spend",
+    "tiktok_leads",
+    "google_spend",
+    "google_conversions"
+  ],
+  "verification": {
+    "checks": [
+      {
+        "detail": "weekly window has 7 day(s)",
+        "name": "window_span",
+        "ok": true
+      },
+      {
+        "detail": "meta 240.72, google 0.00, tiktok 0.00, total 240.72",
+        "name": "spend",
+        "ok": true
+      },
+      {
+        "detail": "non-spend aggregate metrics match raw rows",
+        "name": "raw_metrics",
+        "ok": true
+      },
+      {
+        "detail": "raw 0, counted 0",
+        "name": "crm_leads",
+        "ok": true
+      },
+      {
+        "detail": "expected 0.83, got 0.83",
+        "name": "cpl",
+        "ok": true
+      },
+      {
+        "detail": "segment totals do not exceed report totals",
+        "name": "segments_additive",
+        "ok": true
+      },
+      {
+        "detail": "segments cover report totals",
+        "name": "segments_coverage",
+        "ok": true
+      },
+      {
+        "detail": "all headline trends have eight matching points",
+        "name": "headline_trends",
+        "ok": true
+      },
+      {
+        "detail": "raw rows by date: 2026-09-18=3; report has no daily audit rows",
+        "name": "raw_rows_covered",
+        "ok": true
+      },
+      {
+        "detail": "report keys and values match the allowlist",
+        "name": "schema_allowlist",
+        "ok": true
+      },
+      {
+        "detail": "meta pixel leads 290.00, CRM leads 0",
+        "name": "tracking_drift",
+        "ok": true
+      }
+    ],
+    "status": "pass"
+  },
+  "window": {
+    "end": "2026-09-24",
+    "label": "Sep 18 to Sep 24",
+    "start": "2026-09-18"
+  }
+}
