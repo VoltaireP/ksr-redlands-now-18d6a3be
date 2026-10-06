@@ -1,25 +1,23 @@
 {
-  "actions": [
-    "No ads, budgets or targeting were changed in the account this week."
-  ],
+  "actions": [],
   "alarms": [],
   "campaigns": [
     {
       "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
-      "cost_per_lpv": 0.56,
-      "cost_per_result": 0.74,
-      "cpc": 0.52,
-      "cpm": 23.1,
-      "impressions": 9230,
-      "landing_page_views": 379,
-      "link_clicks": 412,
+      "cost_per_lpv": 0.61,
+      "cost_per_result": 0.8,
+      "cpc": 0.56,
+      "cpm": 24.8,
+      "impressions": 8348,
+      "landing_page_views": 342,
+      "link_clicks": 367,
       "messages": 0,
-      "pixel_leads": 290,
+      "pixel_leads": 259,
       "platform": "Meta",
-      "reach": 5871,
+      "reach": 5264,
       "result_type": "Website leads",
-      "results": 290.0,
-      "spend": 213.2,
+      "results": 259.0,
+      "spend": 207.0,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     },
@@ -27,17 +25,17 @@
       "campaign_name": "KS- COLD- Redlands Now.Com- Reach Campaign-CBO",
       "cost_per_lpv": null,
       "cost_per_result": 0.0,
-      "cpc": 1.74,
-      "cpm": 2.47,
-      "impressions": 5643,
+      "cpc": 1.55,
+      "cpm": 2.41,
+      "impressions": 5763,
       "landing_page_views": 0,
-      "link_clicks": 8,
+      "link_clicks": 9,
       "messages": 0,
       "pixel_leads": 0,
       "platform": "Meta",
-      "reach": 5377,
+      "reach": 5308,
       "result_type": "Reach",
-      "results": 5377.0,
+      "results": 5308.0,
       "spend": 13.91,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
@@ -46,18 +44,18 @@
       "campaign_name": "[09/30/2025] Promoting Redlands Now",
       "cost_per_lpv": null,
       "cost_per_result": 0.01,
-      "cpc": 1.24,
-      "cpm": 11.36,
-      "impressions": 1198,
+      "cpc": 1.5,
+      "cpm": 11.47,
+      "impressions": 1174,
       "landing_page_views": 0,
-      "link_clicks": 11,
+      "link_clicks": 9,
       "messages": 0,
       "pixel_leads": 0,
       "platform": "Meta",
-      "reach": 1074,
+      "reach": 993,
       "result_type": "Reach",
-      "results": 1074.0,
-      "spend": 13.61,
+      "results": 993.0,
+      "spend": 13.47,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     }
@@ -66,58 +64,58 @@
   "currency": "USD",
   "daily": [],
   "display_name": "Redlands Now",
-  "generated_at": "2026-10-01T22:48:20.477009-07:00",
+  "generated_at": "2026-10-02T05:16:59.471333-07:00",
   "headline": [
     {
       "format": "money",
       "key": "spend",
       "label": "Ad spend",
-      "prior": 222.74,
+      "prior": 240.72,
       "trend": [
-        236.47,
         240.46,
         224.03,
         250.48,
         238.56,
         246.27,
         222.74,
-        240.72
+        240.72,
+        234.38
       ],
-      "value": 240.72
+      "value": 234.38
     },
     {
       "format": "int",
       "key": "reach",
       "label": "Reach",
-      "prior": 11430,
+      "prior": 12322,
       "trend": [
-        15644,
         15123,
         14383,
         12683,
         11906,
         12216,
         11430,
-        12322
+        12322,
+        11565
       ],
-      "value": 12322
+      "value": 11565
     },
     {
       "format": "int",
       "key": "link_clicks",
       "label": "Link clicks",
-      "prior": 416,
+      "prior": 431,
       "trend": [
-        633,
         543,
         374,
         375,
         307,
         456,
         416,
-        431
+        431,
+        385
       ],
-      "value": 431
+      "value": 385
     },
     {
       "format": "int",
@@ -125,27 +123,52 @@
       "label": "Landing page views",
       "prior": 379,
       "trend": [
-        572,
         451,
         48,
         100,
         88,
         410,
         379,
-        379
+        379,
+        342
       ],
-      "value": 379
+      "value": 342
     }
   ],
   "insight": null,
   "insights": {
-    "creative": "Every top ad tells one growth story. The December image, 122 sign-ups on $73.01, opens 'RedlandsNow didn't launch. It detonated,' says the newsletter grew over 400 percent with real local stories, and says hop in while the rocket is climbing. The January image, 'Something big is brewing in town,' did nearly as well. The weekend planner, 'What should we do this weekend in the Redlands area?', got 4 sign-ups on $1.95. We recommend funding that angle, since it sells a weekly use, not growth.",
-    "doing": "290 people signed up for the newsletter this week at $0.83 each, on $240.72 of spend compared with $222.74 the week before. Reach rose to 12,322 from 11,430 and clicks to 431 from 416, while landing page visits held at 379.",
-    "look_into": "A page-promotion campaign from a year ago is still spending a little each week and brought no sign-ups, and the separate reach campaign brought none either, by design. We recommend switching the old page-promotion campaign off and letting the sign-up campaign carry that budget.",
-    "next": "We recommend keeping the sign-up campaign as the main spend and moving the small reach and page-promotion budgets into it, since every sign-up this week came from the sign-up campaign. The weekend planner ad is worth a real budget too."
+    "creative": "The December refresh image ad brought 122 sign-ups at $0.61. It opens 'RedlandsNow didn't launch. It detonated,' and says the newsletter grew more than 400% since September. The same copy on the July control ad brought 49 at $1.12, and on the August refresh image 41 at $0.88. The weekend planner ad, 'What should we do this weekend in the Redlands area?', brought 8 on $1.30 of spend, too little to judge. We recommend testing it with more budget, since it sells a clear weekly benefit.",
+    "doing": "Meta counted 259 newsletter sign-ups at $0.90 each, down from 290 at $0.83 the week before. Ad spend was $234.38, the ads reached 11,565 people, and 342 people landed on the sign-up page, down from 379.",
+    "look_into": "Reach, link clicks, landing page views and sign-ups all slipped a little from the week before on almost the same spend. A page follow promotion dated 09/30/2025 is still running: it spent $13.47 and reached 993 people. Worth confirming it is still wanted.",
+    "next": "We recommend keeping the December refresh ad as the main ad and giving the weekend planner ad a larger share of budget for one week, to see if its low cost per sign-up holds."
   },
   "labels": {},
   "metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_message": null,
+    "cpl": 0.9,
+    "crm_leads": 0,
+    "crm_leads_raw": 0,
+    "ctr": 0.025188,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 15285,
+    "landing_page_views": 342,
+    "link_clicks": 385,
+    "messages": 0,
+    "meta_spend": 234.38,
+    "odoo_leads": 0,
+    "odoo_order_value": 0,
+    "odoo_orders": 0,
+    "odoo_won": 0,
+    "pixel_leads": 259,
+    "reach": 11565,
+    "spend": 234.38,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
+  "prior_metrics": {
     "appointments_booked": 0,
     "appointments_showed": 0,
     "cost_per_message": null,
@@ -160,30 +183,13 @@
     "link_clicks": 431,
     "messages": 0,
     "meta_spend": 240.72,
+    "odoo_leads": 0,
+    "odoo_order_value": 0,
+    "odoo_orders": 0,
+    "odoo_won": 0,
     "pixel_leads": 290,
     "reach": 12322,
     "spend": 240.72,
-    "tiktok_leads": 0,
-    "tiktok_spend": 0
-  },
-  "prior_metrics": {
-    "appointments_booked": 0,
-    "appointments_showed": 0,
-    "cost_per_message": null,
-    "cpl": 0.8,
-    "crm_leads": 0,
-    "crm_leads_raw": 0,
-    "ctr": 0.026754,
-    "google_conversions": 0,
-    "google_spend": 0,
-    "impressions": 15549,
-    "landing_page_views": 379,
-    "link_clicks": 416,
-    "messages": 0,
-    "meta_spend": 222.74,
-    "pixel_leads": 279,
-    "reach": 11430,
-    "spend": 222.74,
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
@@ -193,62 +199,62 @@
     {
       "ad_name": "DCT-IMG - Dec Refresh- LEARN",
       "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
-      "cost_per_result": 0.6,
+      "cost_per_result": 0.61,
       "crm_leads": null,
-      "hook": "Image. 'RedlandsNow didn't launch. It detonated.' Newsletter grew over 400 percent, real local stories, hop in while the rocket is climbing. Free sign-up.",
-      "link_clicks": 154,
+      "hook": "Image. Opens 'RedlandsNow didn't launch. It detonated.' Says the newsletter grew over 400% since September. Offer: subscribe to the local newsletter.",
+      "link_clicks": 166,
       "messages": 0,
       "pixel_leads": 122,
-      "preview_url": "https://fb.me/2a1sIsPteK0bVUh",
-      "spend": 73.01
+      "preview_url": "https://fb.me/2cHnDADhnOhSbd0",
+      "spend": 74.65
     },
     {
       "ad_name": "7.21.2026-CONTROL- EP122117717241032511-LEARN",
       "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
-      "cost_per_result": 0.84,
+      "cost_per_result": 1.12,
       "crm_leads": null,
-      "hook": "'RedlandsNow didn't launch. It detonated.' Same growth story, headline 'Redlands' fastest-growing newsletter, and it's not even close.' Sign up button.",
-      "link_clicks": 101,
+      "hook": "Same 'It detonated' copy under the headline 'Redlands' Fastest-Growing Newsletter... and It's Not Even Close.' Sign up button.",
+      "link_clicks": 73,
       "messages": 0,
-      "pixel_leads": 66,
-      "preview_url": "https://fb.me/27rZ3RRuMEsbDjL",
-      "spend": 55.21
-    },
-    {
-      "ad_name": "DCT-IMG - Jan Refresh- LEARN",
-      "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
-      "cost_per_result": 0.86,
-      "crm_leads": null,
-      "hook": "Image. Opens 'Something big is brewing in town.' Newsletter up over 300 percent, the real pulse of the city, claim your spot before the next growth spike.",
-      "link_clicks": 90,
-      "messages": 0,
-      "pixel_leads": 54,
-      "preview_url": "https://fb.me/2hGqx5ioJuuIvAC",
-      "spend": 46.47
+      "pixel_leads": 49,
+      "preview_url": "https://fb.me/2o43VbuDdBMdO6p",
+      "spend": 54.72
     },
     {
       "ad_name": "DCT-IMG -Aug Refresh- LEARN",
       "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
-      "cost_per_result": 0.82,
+      "cost_per_result": 0.88,
       "crm_leads": null,
-      "hook": "Image. 'RedlandsNow didn't launch. It detonated.' Same growth story with the August image refresh. Sign up button.",
-      "link_clicks": 63,
+      "hook": "Image. Same 'It detonated' copy and 'Fastest-Growing Newsletter' headline, with the August images. Sign up button.",
+      "link_clicks": 55,
       "messages": 0,
-      "pixel_leads": 44,
-      "preview_url": "https://fb.me/1WGnwfX3c4l3QDF",
-      "spend": 35.95
+      "pixel_leads": 41,
+      "preview_url": "https://fb.me/1VVHDtbzMdtsjxy",
+      "spend": 36.06
+    },
+    {
+      "ad_name": "DCT-IMG - Jan Refresh- LEARN",
+      "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
+      "cost_per_result": 1.03,
+      "crm_leads": null,
+      "hook": "Image. Opens 'Something big is brewing in town,' says the newsletter surged over 300% in a few months. Offer: claim your spot and subscribe.",
+      "link_clicks": 67,
+      "messages": 0,
+      "pixel_leads": 37,
+      "preview_url": "https://fb.me/23caS1P02ZsoyTV",
+      "spend": 38.23
     },
     {
       "ad_name": "4.12.26-CONTROL- EP-122117716869032511- LEARN",
       "campaign_name": "KS- COLD- Redlands Now.Com- Lead Conversion-CBO",
-      "cost_per_result": 0.49,
+      "cost_per_result": 0.16,
       "crm_leads": null,
-      "hook": "'What should we do this weekend in the Redlands area?' Every Tuesday, the best events, new restaurants and hidden gems across Redlands, Yucaipa and Loma Linda.",
-      "link_clicks": 4,
+      "hook": "Opens 'What should we do this weekend in the Redlands area?' Offer: the best events, new restaurants and hidden gems every Tuesday. Sign up button.",
+      "link_clicks": 5,
       "messages": 0,
-      "pixel_leads": 4,
-      "preview_url": "https://fb.me/22NgRD1j8LwobNX",
-      "spend": 1.95
+      "pixel_leads": 8,
+      "preview_url": "https://fb.me/yfo2JzpxDPTvs4H",
+      "spend": 1.3
     }
   ],
   "unavailable": [
@@ -259,7 +265,11 @@
     "tiktok_spend",
     "tiktok_leads",
     "google_spend",
-    "google_conversions"
+    "google_conversions",
+    "odoo_leads",
+    "odoo_won",
+    "odoo_orders",
+    "odoo_order_value"
   ],
   "verification": {
     "checks": [
@@ -269,7 +279,7 @@
         "ok": true
       },
       {
-        "detail": "meta 240.72, google 0.00, tiktok 0.00, total 240.72",
+        "detail": "meta 234.38, google 0.00, tiktok 0.00, total 234.38",
         "name": "spend",
         "ok": true
       },
@@ -284,7 +294,7 @@
         "ok": true
       },
       {
-        "detail": "expected 0.83, got 0.83",
+        "detail": "expected 0.9, got 0.9",
         "name": "cpl",
         "ok": true
       },
@@ -299,12 +309,22 @@
         "ok": true
       },
       {
+        "detail": "odoo counts match raw rows",
+        "name": "odoo_rows",
+        "ok": true
+      },
+      {
+        "detail": "campaign rows add up to the platform spend",
+        "name": "campaigns_additive",
+        "ok": true
+      },
+      {
         "detail": "all headline trends have eight matching points",
         "name": "headline_trends",
         "ok": true
       },
       {
-        "detail": "raw rows by date: 2026-09-18=3; report has no daily audit rows",
+        "detail": "raw rows by date: 2026-09-25=3; report has no daily audit rows",
         "name": "raw_rows_covered",
         "ok": true
       },
@@ -314,7 +334,7 @@
         "ok": true
       },
       {
-        "detail": "meta pixel leads 290.00, CRM leads 0",
+        "detail": "meta pixel leads 259.00, CRM leads 0",
         "name": "tracking_drift",
         "ok": true
       }
@@ -322,8 +342,8 @@
     "status": "pass"
   },
   "window": {
-    "end": "2026-09-24",
-    "label": "Sep 18 to Sep 24",
-    "start": "2026-09-18"
+    "end": "2026-10-01",
+    "label": "Sep 25 to Oct 1",
+    "start": "2026-09-25"
   }
 }
